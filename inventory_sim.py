@@ -1,5 +1,7 @@
 from numpy.random import default_rng
 
+# comment
+
 # time horizon in days
 horizon = 10
 # mean daily demand
